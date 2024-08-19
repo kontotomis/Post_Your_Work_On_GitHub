@@ -12,4 +12,5 @@ In this project, we are simulating a realistic workflow to refactor our previous
 2. Git-KeyTerms.pdf
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+1. Programming for Data Science with Python
+2. Git-Documentation: https://git-scm.com/doc
