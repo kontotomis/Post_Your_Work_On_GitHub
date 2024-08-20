@@ -1,8 +1,8 @@
 ### Date created
-#### August 19, 2024
+August 19, 2024
 
 ### Project Title
-#### **Project 3**: Post Your Work On GitHub
+**Project 3**: Post Your Work On GitHub
 
 ### Description
 In this project, we are simulating a realistic workflow to refactor our previous BikeShare project using Git.
