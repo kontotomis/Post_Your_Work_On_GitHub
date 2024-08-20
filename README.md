@@ -7,6 +7,12 @@ August 19, 2024
 ### Description
 In this project, we are simulating a realistic workflow to refactor our previous BikeShare project using Git.
 
+### Project Tasks
+1. Setting Up Our Repository
+2. Improve Documentation
+3. Refactor Code
+4. Merge Branches
+
 ### Files used
 1. Git Commands Documentation.pdf
 2. Git-KeyTerms.pdf
