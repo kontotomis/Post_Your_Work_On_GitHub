@@ -37,11 +37,11 @@ def filters():
             else:
                 print('This is not a valid day. Please try again.\n')
 
-        print('\nIt seems like you wish to filter Bikeshare data based on the following criteria:')
+        print('\nIt seems like you wish to filter Bikeshare data based on the following filters:')
         print('City: ', city.title())
         print('Month: ', month.title())
         print('Day of week: ', day.title())
-        answer = input('Do you wish to continue analyzing Bikeshare data with the above criteria? (yes or no): ').lower().strip()
+        answer = input('Do you wish to continue analyzing Bikeshare data with the above filters? (yes or no): ').lower().strip()
         if answer == 'yes':
             break
 
